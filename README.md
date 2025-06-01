@@ -1,15 +1,13 @@
 <h1 align="center">Hello, I'm Josué 👋</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <p align="left">
-    <a href="https://www.linkedin.com/in/josuegutierrezcuellar/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0e75b6" alt="LinkedIn" />
-    </a>
-  </p>
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Josue049&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Josue049" />
-  </p>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/josuegutierrezcuellar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&color=0e75b6" alt="LinkedIn" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Josue049&label=Profile%20views&color=858585&style=for-the-badge" alt="Josue049" />
+</p>
 
 
 <p align="center">
