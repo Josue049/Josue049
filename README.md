@@ -1,7 +1,9 @@
 <h1 align="center">Hola, soy Josué 👋</h1>
 
-<p align="center"> ![I am Josue](https://media.licdn.com/dms/image/v2/D4E16AQEjJet9qaeufQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728178937915?e=1754524800&v=beta&t=CyHM-plxx9h6lhVVh0sQ9cshY7Iqfv82Ha26ES63FKI "I am Josue")
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEjJet9qaeufQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728178937915?e=1754524800&v=beta&t=CyHM-plxx9h6lhVVh0sQ9cshY7Iqfv82Ha26ES63FKI" alt="I am Josue" />
 </p>
+
 
 <p align="center">
   Desarrollador de software • Líder juvenil • Apasionado por la tecnología con propósito
