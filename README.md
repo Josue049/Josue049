@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://i.ibb.co/JWY2T5RH/image1.png" alt="Imagen centrada" />
+</p>
+
+<p align="center">
   Software Developer • Youth Leader • Passionate about technology with purpose
 </p>
 
