@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Josue049&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Josue049" />
+  <img src="https://komarev.com/ghpvc/?username=Josue049&label=Profile%20views&color=000000&style=for-the-badge" alt="Josue049" />
 </p>
 
 
