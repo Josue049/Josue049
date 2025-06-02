@@ -76,6 +76,7 @@ My philosophy is clear:
 
 <div align="center"> <a href="mailto:josue09guti@gmail.com" style="text-decoration:none;"> <img src="https://img.shields.io/badge/Email-josue09guti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/tuusuario" target="_blank" style="text-decoration:none;"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </div>
 
+
 <p align="center">
   Thanks for visiting my profile 🙌 Let’s keep creating technology with purpose!
 </p>
