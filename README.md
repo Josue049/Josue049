@@ -22,15 +22,6 @@ My philosophy is clear:
 
 ---
 
-### 🌍 Representation & Leadership
-
-- 🎤 Speaker at universities and tech clubs.  
-- 🌱 Youth Representative at FAO – Agriculture and Food.  
-- 👨‍🏫 Volunteer teaching technology to children in Lima.  
-- 🇵🇪 Proud of my roots, driving education and sustainability with technology in Peru.
-
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b> 
 
 
@@ -60,6 +51,16 @@ My philosophy is clear:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
+---
+
+### 🌍 Representation & Leadership
+
+- 🎤 Speaker at universities and tech clubs.  
+- 🌱 Youth Representative at FAO – Agriculture and Food.  
+- 👨‍🏫 Volunteer teaching technology to children in Lima.  
+- 🇵🇪 Proud of my roots, driving education and sustainability with technology in Peru.
 
 ---
 
