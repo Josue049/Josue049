@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/JWY2T5RH/image1.png" alt="Imagen centrada" />
+  <img src="https://i.ibb.co/XxCWMLCR/banner1.png" alt="Imagen centrada" />
 </p>
 
 <p align="center">
